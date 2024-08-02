@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subharun Das</h1>
-<h3 align="center">A passionate Software Tester with an experience of 2.5+ years of testing in Healthcare Domain</h3>
+<h3 align="center">A passionate Software Tester with an experience of 2.10+ years of testing in Healthcare Domain</h3>
 
 - 🔭 I’m currently working on **AETNA which is a Healthcare project**
 
