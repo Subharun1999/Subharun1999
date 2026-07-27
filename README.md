@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subharun Das</h1>
-<h3 align="center">Having 2.11+ years of experience in Software Testing in Healthcare domain with strong knowledge in STLC and SDLC cycles. •Experienced in working in Agile environment and testing team of multiple vendors. •Fair exposure in UI automation using Selenium with Java. •Fair exposure in API testing using Postman and Rest Assured Library.</h3>
+<h3 align="center">Having 4+ years of experience in Software Testing in Healthcare domain with strong knowledge in STLC and SDLC cycles. •Experienced in working in Agile environment and testing team of multiple vendors. •Fair exposure in UI automation using Selenium with Java. •Fair exposure in API testing using Postman and Rest Assured Library.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subharun1999" alt="subharun1999" /></a> </p>
 
